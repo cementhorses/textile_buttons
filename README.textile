@@ -4,14 +4,10 @@ h1. Textile Buttons
 
 A cross-browser utility for working with textile. Easily create a toolbar to facilitate textile (or markdown) entry.
 
-<hr />
-
 h2. Features
 
 * Works in IE7, Firefox 3, Safari 3
 * Will apply markup to highlighted text, or insert example text if no selection
-
-<hr />
 
 h2. Examples
 
@@ -21,6 +17,5 @@ h2. Examples
 
 @ <a href="#" onclick="insertTextileLink('body', false); return false">Hyperlink</a> @
 
-<hr />
 
 Released by Cement Horses under the MIT License.
